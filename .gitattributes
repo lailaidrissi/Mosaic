@@ -1,0 +1,2 @@
+# don’t treat anything under node_modules as text
+node_modules/** -text
